@@ -1,0 +1,28 @@
+{
+  "format": "pixra-map",
+  "version": 1,
+  "name": "heart",
+  "w": 8,
+  "h": 8,
+  "layer": "Heart",
+  "frame": 1,
+  "x": 0,
+  "y": 0,
+  "clear": false,
+  "legend": {
+    "R": "#e03a3e",
+    "r": "#a4202a",
+    "W": "#fff1e8",
+    "K": "#1d2b53"
+  },
+  "rows": [
+    ".KK..KK.",
+    "KRWKKRRK",
+    "KWRRRRrK",
+    "KRRRRRrK",
+    ".KRRRrK.",
+    "..KRrK..",
+    "...KK...",
+    "........"
+  ]
+}
