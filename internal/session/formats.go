@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/rpmull/bf-interpreter/internal/pyxra"
+	"github.com/rpmull/pyx-tui/internal/pyxra"
 )
 
 // Kind is a file format, chosen by extension.

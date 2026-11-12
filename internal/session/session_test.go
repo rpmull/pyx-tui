@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rpmull/bf-interpreter/internal/pyxra"
+	"github.com/rpmull/pyx-tui/internal/pyxra"
 )
 
 func newSession(t *testing.T, w, h int) *Session {

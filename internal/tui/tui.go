@@ -10,8 +10,8 @@ import (
 	"unicode/utf8"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/rpmull/bf-interpreter/internal/pyxra"
-	"github.com/rpmull/bf-interpreter/internal/session"
+	"github.com/rpmull/pyx-tui/internal/pyxra"
+	"github.com/rpmull/pyx-tui/internal/session"
 )
 
 const sideW = 30

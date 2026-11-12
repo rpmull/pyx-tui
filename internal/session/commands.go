@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/rpmull/bf-interpreter/internal/pyxra"
+	"github.com/rpmull/pyx-tui/internal/pyxra"
 )
 
 // Cmd is one editor command, available from the TUI command line and the CLI.

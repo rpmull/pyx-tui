@@ -1,4 +1,4 @@
-module github.com/rpmull/bf-interpreter
+module github.com/rpmull/pyx-tui
 
 go 1.22
 

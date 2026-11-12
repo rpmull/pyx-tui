@@ -11,9 +11,9 @@ import (
 
 	"golang.org/x/term"
 
-	"github.com/rpmull/bf-interpreter/internal/pyxra"
-	"github.com/rpmull/bf-interpreter/internal/session"
-	"github.com/rpmull/bf-interpreter/internal/tui"
+	"github.com/rpmull/pyx-tui/internal/pyxra"
+	"github.com/rpmull/pyx-tui/internal/session"
+	"github.com/rpmull/pyx-tui/internal/tui"
 )
 
 var version = "dev"

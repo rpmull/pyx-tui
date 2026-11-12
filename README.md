@@ -43,7 +43,7 @@ a layer as text, and script any edit from the shell.
 You need Go 1.22 or later to build Pixra.
 
 ```
-go install github.com/rpmull/bf-interpreter/cmd/pixra@latest   # or:
+go install github.com/rpmull/pyx-tui/cmd/pixra@latest   # or:
 make build                       # ./pixra for this machine
 make dist                        # every platform into dist/
 GOOS=windows GOARCH=amd64 CGO_ENABLED=0 go build -o pixra.exe ./cmd/pixra

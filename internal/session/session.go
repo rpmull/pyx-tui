@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rpmull/bf-interpreter/internal/pyxra"
+	"github.com/rpmull/pyx-tui/internal/pyxra"
 )
 
 type Color = pyxra.Color
