@@ -1,7 +1,4 @@
-__pycache__/
-*.pyc
-*.egg-info/
-build/
-dist/
-.venv/
+/pixra
+/pixra.exe
+/dist/
 *.tmp
